@@ -1,0 +1,13 @@
+.body-container{
+    background-color: white;
+    display: flex;
+    color: black;
+    align-items: center;
+    padding: 40px;
+}
+.body-container span{
+    color: red;
+}
+.body-container button{
+    background-color: red;
+}
