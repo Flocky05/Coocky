@@ -9,7 +9,7 @@ const BangaliFood = () => {
             <div className='bangaliFood-card'>
                 <img src={food1} alt="" />
                 <h2>Food Name: Panta Ilish</h2>
-                <p>Panta Ilish is a traditional food that almost every Bangladeshi eats at the Pohela Boishakh Festival (the first day of Bangla year). It’s the most popular food in Bangladesh. We love this dish as it is a great symbol and celebration of our culture and tradition.</p>
+                <p>Panta Ilish is a traditional food that almost every Bangladeshi eats at the Pohela Boishakh Festival (the first day of Bangla year). culture and tradition.</p>
                 <div className='bangaliFood-card-bottom'>
                     <p>price:340 taka (only)</p>
                     <a href="">buy now</a>
@@ -18,7 +18,7 @@ const BangaliFood = () => {
             <div className='bangaliFood-card'>
                 <img src={food2} alt="" />
                 <h2>Food Name: Panta Ilish</h2>
-                <p>Panta Ilish is a traditional food that almost every Bangladeshi eats at the Pohela Boishakh Festival (the first day of Bangla year). It’s the most popular food in Bangladesh. We love this dish as it is a great symbol and celebration of our culture and tradition.</p>
+                <p>Panta Ilish is a traditional food that almost every Bangladeshi eats at the Pohela Boishakh Festival (the first day of Bangla year).  tradition.</p>
                 <div className='bangaliFood-card-bottom'>
                     <p>price:340 taka (only)</p>
                     <a href="">buy now</a>
@@ -27,7 +27,7 @@ const BangaliFood = () => {
             <div className='bangaliFood-card'>
                 <img src={food3} alt="" />
                 <h2>Food Name: Panta Ilish</h2>
-                <p>Panta Ilish is a traditional food that almost every Bangladeshi eats at the Pohela Boishakh Festival (the first day of Bangla year). It’s the most popular food in Bangladesh. We love this dish as it is a great symbol and celebration of our culture and tradition.</p>
+                <p>Panta Ilish is a traditional food that almost every Bangladeshi eats at the Pohela Boishakh Festival (the first day of Bangla year) d tradition.</p>
                 <div className='bangaliFood-card-bottom'>
                     <p>price:340 taka (only)</p>
                     <a href="">buy now</a>
