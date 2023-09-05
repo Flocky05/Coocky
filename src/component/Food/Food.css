@@ -1,0 +1,34 @@
+.food-container{
+    padding: 50px;
+    background-color: white;
+    color: black;
+    text-align: center;
+    font-size: 26px;
+}
+.food-section{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: 1fr;
+    grid-column-gap: 20px;
+    grid-row-gap: 0px;
+    justify-items:center;
+    
+}
+.food-card {
+    border-radius:10px;
+    background-color: white;
+    font-size: 16px;
+    box-shadow:
+    inset 0 -3em 3em rgba(0, 0, 0, 0.1),
+    0 0 0 2px rgb(255, 255, 255),
+    0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+}
+
+.food-card img{
+    height: 350px;
+    width: 250px;
+    justify-content: center;
+}
+.food-card div{
+    padding: 50px;
+}
