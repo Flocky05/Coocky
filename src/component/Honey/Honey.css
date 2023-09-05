@@ -1,0 +1,14 @@
+.honey-container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: 1fr;
+    grid-column-gap: 20px;
+    grid-row-gap: 0px;
+    justify-items:center;
+    align-items: center;
+}
+.honey-container img{
+    height: 500px;
+    width: 500px;
+    padding: 40px;
+}
