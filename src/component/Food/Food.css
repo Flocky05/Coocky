@@ -15,13 +15,19 @@
     
 }
 .food-card {
-    border-radius:10px;
+    border-radius:20px;
     background-color: white;
     font-size: 16px;
     box-shadow:
     inset 0 -3em 3em rgba(0, 0, 0, 0.1),
     0 0 0 2px rgb(255, 255, 255),
     0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+}
+.food-card h4{
+    font-size:24px;
+}
+.food-card p{
+    color:gray;
 }
 
 .food-card img{
@@ -31,4 +37,8 @@
 }
 .food-card div{
     padding: 50px;
+}
+.food-card-btm{
+    display: flex;
+    justify-content: space-between;
 }
