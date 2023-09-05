@@ -6,9 +6,29 @@
     grid-row-gap: 0px;
     justify-items:center;
     align-items: center;
+    
 }
 .honey-container img{
     height: 500px;
     width: 500px;
     padding: 40px;
 }
+.honey-container h2 {
+    color: white;
+    text-shadow: 2px 2px 4px orangered;
+  }
+
+  .honey-container a{
+    color: orangered;
+    background-color: rgb(31, 30, 30);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 20px;
+    font-size: 16px;
+    font-weight:200;
+  }
+  .honey-body{
+    padding-right: 40px;
+  }
