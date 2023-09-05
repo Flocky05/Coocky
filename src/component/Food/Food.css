@@ -38,7 +38,4 @@
 .food-card div{
     padding: 50px;
 }
-.food-card-btm{
-    display: flex;
-    justify-content: space-between;
-}
+
