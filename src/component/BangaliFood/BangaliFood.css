@@ -1,3 +1,13 @@
+.BangaliFood h2{
+    background-color: white;
+    color: black;
+    text-align: center;
+    font-size:16;
+    font-weight: 600;
+    font-style: initial;
+    margin: 0;
+    padding: 30px;
+}
 .bangaliFood-container{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -5,8 +15,8 @@
     grid-column-gap: 20px;
     grid-row-gap: 0px;
     background-color: white;
-    padding: 40px;
-
+    text-align: center;
+    padding: 30px;
 }
 .bangaliFood-card{
     color: black;
