@@ -8,16 +8,16 @@ const BangaliFood = () => {
         <div className='bangaliFood-container'>
             <div className='bangaliFood-card'>
                 <img src={food1} alt="" />
-                <h2>Food Name: Panta Ilish</h2>
+                <h2>Panta Ilish</h2>
                 <p>Panta Ilish is a traditional food that almost every Bangladeshi eats at the Pohela Boishakh Festival (the first day of Bangla year). culture and tradition.</p>
                 <div className='bangaliFood-card-bottom'>
-                    <p>price:340 taka (only)</p>
+                    <p>price:350 taka (only)</p>
                     <a href="">buy now</a>
                 </div>
             </div>
             <div className='bangaliFood-card'>
                 <img src={food2} alt="" />
-                <h2>Food Name: Panta Ilish</h2>
+                <h2>Kacchi Biriyani</h2>
                 <p>Panta Ilish is a traditional food that almost every Bangladeshi eats at the Pohela Boishakh Festival (the first day of Bangla year).  tradition.</p>
                 <div className='bangaliFood-card-bottom'>
                     <p>price:340 taka (only)</p>
@@ -26,10 +26,10 @@ const BangaliFood = () => {
             </div>
             <div className='bangaliFood-card'>
                 <img src={food3} alt="" />
-                <h2>Food Name: Panta Ilish</h2>
+                <h2>Chingri Malaikari</h2>
                 <p>Panta Ilish is a traditional food that almost every Bangladeshi eats at the Pohela Boishakh Festival (the first day of Bangla year) d tradition.</p>
                 <div className='bangaliFood-card-bottom'>
-                    <p>price:340 taka (only)</p>
+                    <p>price:540 taka (only)</p>
                     <a href="">buy now</a>
                 </div>
             </div>
