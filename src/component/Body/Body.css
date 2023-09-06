@@ -8,7 +8,8 @@
 .body-container span{
     color: red;
 }
-.body-container button{
+.body-container a{
+    color: white;
     padding-left: 25px;
     padding-right: 25px;
     padding-top: 10px;
@@ -16,6 +17,6 @@
     border-radius: 10px;
     background-color: orangered;
 }
-.body-container button:hover{
-    background-color: red;
+.body-container a:hover{
+    text-shadow: 1px 1px 10px white, 0 0 25px white, 0 0 5px white;
 }
