@@ -9,6 +9,8 @@ const Footer = () => {
                 <img src={img1} alt="" />
                 <img src={img2} alt="" />
             </div>
+            <h2>Contract Us</h2> 
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit vel aut at reiciendis minima quasi necessitatibus laborum distinctio nemo? Cumque itaque ex aliquid, totam cum repudiandae quibusdam facere nisi? Modi dolores quos ipsa minus, assumenda commodi similique repudiandae quaerat!</p>
         </div>
     );
 };
